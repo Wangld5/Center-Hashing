@@ -1,3 +1,7 @@
+#### Code of "Deep Hashing with Minimal-Distance-Separated Hash Centers"
+
+
+
 main.py文件是执行文件
 
 optimizeAccel.py是哈希中心生成文件
