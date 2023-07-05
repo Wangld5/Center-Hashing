@@ -2,9 +2,9 @@
 
 ### Code
 
-main.py is the running file
+'main.py' is the running file
 
-optimAccel.py is the hash center-generated file
+'optimAccel.py' is the hash center-generated file
 
 The scripts mainly include the training file train_CUB.py and the parameter configuration file utils.py
 
